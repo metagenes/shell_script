@@ -7,4 +7,6 @@ This is Shell script to install various items for development.
 
 ## Install Docker
    sudo sh docker.sh 
-    
+
+## Install Code-Server
+   sudo sh code-server.sh
